@@ -27,3 +27,6 @@ const myFunction = function(){
 // to find the datatype of any 
 //null have a typeof object
 console.log("")
+
+
+//stack (primitive)copy  // Heap (Non-primitive)(reference)
